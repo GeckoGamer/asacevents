@@ -3,6 +3,6 @@
     	{
         	"URL": "https://i.imgur.com/XquEheq.png",
         	"Pos": "MidMid",
-        	"Persist": true,
+        	"Persist": false,
         	"FadeTime": 5
 }
