@@ -45,3 +45,14 @@
     	{
         	"URL": "https://drive.google.com/uc?id=1faWP8SOWKXCPJkNyUssqaTvHztOxEgXJ",
         	"Pos": "BottomMid",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "https://drive.google.com/uc?id=1RgPcWQ__4mS5e2xR6FECHJCezgm0jOs4",
+        	"Pos": "BottomRight",
+        	"Persist": true,
+        	"FadeTime": 5
+    	}
+	]
+}
