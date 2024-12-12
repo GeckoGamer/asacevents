@@ -1,0 +1,16 @@
+{
+	"Images": [
+    	{
+        	"URL": "https://drive.google.com/uc?id=1srloSsmqAtth4FZeEFoOBSaUhBAswDGH",
+        	"Pos": "TopLeft",
+        	"Persist": false,
+        	"FadeTime": 30
+    	},
+	{
+        	"URL": "https://drive.google.com/uc?id=1VjaVN369hYDw8DCDBkJBX8ef7Hh-Q6RN",
+        	"Pos": "TopRight",
+        	"Persist": false,
+        	"FadeTime": 5
+    	}	
+	]
+}
