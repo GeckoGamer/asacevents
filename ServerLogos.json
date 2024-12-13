@@ -6,6 +6,12 @@
         	"Persist": false,
         	"FadeTime": 5
     	},
+	{
+        	"URL": "https://drive.google.com/uc?export=view&id=1NPTR4CRUxFlqH4LMpGAo-28kCuqesh7f",
+        	"Pos": "MidMid",
+        	"Persist": false,
+        	"FadeTime": 5
+    	}
 		
 	]
 }
